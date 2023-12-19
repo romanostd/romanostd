@@ -4,7 +4,7 @@
 [![Personal Badge](https://img.shields.io/badge/-Website-b8326f?style=flat-square&logo=Me&logoColor=white&link=https://romanostd.github.io/personal-page/)](https://romanostd.github.io/personal-page/)
 [![Gmail Badge](https://img.shields.io/badge/-Email-b8326f?style=flat-square&logo=Gmail&logoColor=white&link=mailto:romanostedile@gmail.com)](mailto:romanostedile@gmail.com)
 
-## Full-Stack Developer | Freelance | Currently Pursuing Post-Graduation in Full Stack Development at PUCRS
+## Full-Stack Developer | Freelancer | Currently Pursuing Post-Graduation in Full Stack Development at PUCRS
 
 📍 Based in Curitiba-PR, Brazil  
 🔭 Freelancing and specializing in Full-Stack Development.  
@@ -47,4 +47,4 @@
 </p>
 
 ### Let's Connect!
-Feel free to reach out for freelance opportunities or collaborations!
+Got a project in mind or an idea you want to bring to life? I'm here to help make it happen. Feel free to reach out to me for freelance opportunities or collaborations. Together, we can turn your vision into reality!
