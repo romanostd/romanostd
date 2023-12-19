@@ -14,7 +14,7 @@
 
 ### Qualifications and Skills:
 
-#### Web Development: ![Angular](https://img.shields.io/badge/Angular-b8326f?style=flat-square&logo=angular&logoColor=white)
+#### Web Development: [Angular](https://img.shields.io/badge/Angular-b8326f?style=flat-square&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/React-b8326f?style=flat-square&logo=react&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-b8326f?style=flat-square&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-b8326f?style=flat-square&logo=javascript&logoColor=white)
