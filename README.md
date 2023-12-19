@@ -7,7 +7,7 @@
 🌱 Deepening my knowledge in DevOps and Cloud Technologies, especially AWS.  
 👯 Looking to collaborate on innovative web development projects.  
 🎓 Post-Graduation in Full Stack Development at PUCRS.  
-📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/romanostedile/) | `email@example.com`
+📫 How to reach me: [LinkedIn]([https://www.linkedin.com/in/romanostedile/](https://www.linkedin.com/in/romano-stedile/)) | `romanostedile@gmail.com`
 
 ### Qualifications and Skills:
 
