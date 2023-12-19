@@ -1,8 +1,8 @@
 # Hi, I'm Romano M. Stedile 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-red?style=flat-square&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/romano-stedile/)](https://www.linkedin.com/in/romano-stedile/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-red?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/romano-stedile/)](https://www.linkedin.com/in/romano-stedile/)
 [![Personal Badge](https://img.shields.io/badge/-Website-red?style=flat-square&logo=Me&logoColor=white&link=https://romanostd.github.io/personal-page/)](https://romanostd.github.io/personal-page/)
-[![Gmail Badge](https://img.shields.io/badge/-romanostedile@gmail.com.com-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:romanostedile@gmail.com)](mailto:romanostedile@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Email-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:romanostedile@gmail.com)](mailto:romanostedile@gmail.com)
 
 ## Full-Stack Developer | Freelance | Currently Pursuing Post-Graduation in Full Stack Development at PUCRS
 
@@ -40,7 +40,12 @@
 ![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
 ### My GitHub Stats
-![Romano's GitHub stats](https://github-readme-stats.vercel.app/api?username=romanostd&show_icons=true&theme=radical)
+
+<p float="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=romanostd&show_icons=true&theme=radical" height="180">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=romanostd&theme=radical&layout=compact" height="180">
+</p>
 
 ### Let's Connect!
 Feel free to reach out for freelance opportunities or collaborations!
+
