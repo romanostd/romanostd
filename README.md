@@ -1,5 +1,9 @@
 # Hi, I'm Romano M. Stedile 👋
 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fernanda-kipper-5958a61a9/)](https://www.linkedin.com/in/fernanda-kipper-5958a61a9/)
+[![Personal Badge](https://img.shields.io/badge/-Website-6633cc?style=flat-square&logo=Me&logoColor=white&link=https://www.fernandakipper.com/)](https://fernandakipper.com/)
+[![Gmail Badge](https://img.shields.io/badge/-contato@fernandakipper.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contato@fernandakipper.com)](mailto:contato@fernandakipper.com)
+
 ## Full-Stack Developer | Freelance | Currently Pursuing Post-Graduation in Full Stack Development at PUCRS
 
 📍 Based in Curitiba-PR, Brazil  
@@ -7,12 +11,11 @@
 🌱 Deepening my knowledge in DevOps and Cloud Technologies, especially AWS.  
 👯 Looking to collaborate on innovative web development projects.  
 🎓 Post-Graduation in Full Stack Development at PUCRS.  
-📫 How to reach me: [LinkedIn]([https://www.linkedin.com/in/romanostedile/](https://www.linkedin.com/in/romano-stedile/)) | `romanostedile@gmail.com`
 
 ### Qualifications and Skills:
 
 #### Web Development:
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
