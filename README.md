@@ -1,7 +1,7 @@
 # Hi, I'm Romano M. Stedile 👋
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/romano-stedile/)](https://www.linkedin.com/in/romano-stedile/)
-[![Personal Badge](https://img.shields.io/badge/-Website-6633cc?style=flat-square&logo=Me&logoColor=white&link=https://romanostd.github.io/personal-page/)]([https://romanostd.github.io/personal-page/](https://romanostd.github.io/personal-page/))
+[![Personal Badge](https://img.shields.io/badge/-Website-6633cc?style=flat-square&logo=Me&logoColor=white&link=https://www.fernandakipper.com/)](https://fernandakipper.com/)
 [![Gmail Badge](https://img.shields.io/badge/-romanostedile@gmail.com.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:romanostedile@gmail.com)](mailto:romanostedile@gmail.com)
 
 ## Full-Stack Developer | Freelance | Currently Pursuing Post-Graduation in Full Stack Development at PUCRS
