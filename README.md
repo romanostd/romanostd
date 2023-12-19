@@ -1,8 +1,8 @@
 # Hi, I'm Romano M. Stedile 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-red?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/romano-stedile/)](https://www.linkedin.com/in/romano-stedile/)
-[![Personal Badge](https://img.shields.io/badge/-Website-red?style=flat-square&logo=Me&logoColor=white&link=https://romanostd.github.io/personal-page/)](https://romanostd.github.io/personal-page/)
-[![Gmail Badge](https://img.shields.io/badge/-Email-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:romanostedile@gmail.com)](mailto:romanostedile@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-#b8326f?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/romano-stedile/)](https://www.linkedin.com/in/romano-stedile/)
+[![Personal Badge](https://img.shields.io/badge/-Website-#b8326f?style=flat-square&logo=Me&logoColor=white&link=https://romanostd.github.io/personal-page/)](https://romanostd.github.io/personal-page/)
+[![Gmail Badge](https://img.shields.io/badge/-Email-#b8326f?style=flat-square&logo=Gmail&logoColor=white&link=mailto:romanostedile@gmail.com)](mailto:romanostedile@gmail.com)
 
 ## Full-Stack Developer | Freelance | Currently Pursuing Post-Graduation in Full Stack Development at PUCRS
 
