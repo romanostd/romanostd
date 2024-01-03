@@ -7,7 +7,7 @@
 ## Full-Stack Developer | Freelancer | Currently Pursuing Post-Graduation in Full Stack Development at PUCRS
 
 📍 Based in Curitiba-PR, Brazil  
-🔭 Freelancing and specializing in Full-Stack Development.  
+⚙️ Freelancing and specializing in Full-Stack Development.  
 🌱 Deepening my knowledge in DevOps and Cloud Technologies, especially AWS.  
 👯 Looking to collaborate on innovative web development projects.  
 🎓 Post-Graduation in Full Stack Development at PUCRS.  
