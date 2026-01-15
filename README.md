@@ -1,11 +1,11 @@
 <p align="center">
-  <a href="https://www.linkedin.com/in/romano-stedile/">LinkedIn</a>
-  <span>&nbsp;&nbsp;&nbsp;</span>
-  <a href="mailto:romanostedile@gmail.com">Email</a>
-  <span>&nbsp;&nbsp;&nbsp;</span>
-  <a href="http://romanostd.s3-website-us-east-1.amazonaws.com/">Website</a>
+  <code>
+    $ whoami
+  </code>
 </p>
 
 <p align="center">
-  ─────────────────────────
+  <code>
+    linkedin://romano-stedile · mailto://romano-stedile@gmail.com · web://romanostd
+  </code>
 </p>
