@@ -1,11 +1,17 @@
-<p align="center">
-  <code>
-    $ whoami
-  </code>
-</p>
+<hr />
 
 <p align="center">
-  <code>
-    linkedin://romano-stedile · mailto://romano-stedile@gmail.com · web://romanostd
-  </code>
+  ──
+  <br />
+  <strong>
+    <a href="https://www.linkedin.com/in/romano-stedile/">LinkedIn</a>
+    &nbsp;&nbsp;|&nbsp;&nbsp;
+    <a href="mailto:romanostedile@gmail.com">Email</a>
+    &nbsp;&nbsp;|&nbsp;&nbsp;
+    <a href="http://romanostd.s3-website-us-east-1.amazonaws.com/">Website</a>
+  </strong>
+  <br />
+  ──
 </p>
+
+<hr />
